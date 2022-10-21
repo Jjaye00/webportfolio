@@ -1,0 +1,41 @@
+
+body {
+font-family: 'Roboto', sans-serif !important; 
+}
+
+.front {
+  background-color: #EFEEFF;
+}
+
+.jaye{
+  font-weight: bold;
+}
+
+.full-stack{
+  font-weight: bold;
+  color: #CD5C5C;
+}
+
+#bg-image{
+   min-height: 100vh;
+        opacity: 100%;
+        background-image: url(./images/front.webp);
+        background-repeat: no-repeat;
+        background-size: 100%;
+        background-position: center center;
+        color: white;
+        text-align: right;
+        background-attachment: scroll;
+
+
+}
+
+.w-100 {
+  width: 100% !important;
+  height: 75vh;
+}
+
+.reviews{
+  font-weight: bold;
+  color: #44965d;
+
